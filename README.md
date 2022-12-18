@@ -1,2 +1,6 @@
 # Template one
-Describtion:This project is a template with HTML and pure CSS
+## Describtion
+
+```bresh
+This project is a template with pure HTML and pure CSS
+```
